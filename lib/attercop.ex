@@ -1,0 +1,2 @@
+defmodule Attercop do
+end
